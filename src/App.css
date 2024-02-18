@@ -1,0 +1,17 @@
+body{
+    width: 70%;
+    vertical-align: center;
+    margin: auto;
+}
+.App{
+    display: flex;
+    height: 100hv;
+   
+}
+.container1{
+   
+   float: left;
+}
+.container2{
+float: right;
+}
